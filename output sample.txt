@@ -1,0 +1,21 @@
+## Sample Output
+
+**Total Revenue:** 1,845,000  
+
+**Revenue by Product:**  
+| Product | Revenue   |
+|---------|-----------|
+| Laptop  | 920,000   |
+| Mobile  | 610,000   |
+| Tablet  | 315,000   |
+
+**Revenue by Region:**  
+| Region | Revenue   |
+|--------|-----------|
+| North  | 680,000   |
+| South  | 520,000   |
+| East   | 340,000   |
+| West   | 305,000   |
+
+**Top Product:** Laptop  
+**Top Region:** North
