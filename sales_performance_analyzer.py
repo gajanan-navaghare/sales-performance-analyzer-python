@@ -3,7 +3,7 @@ import pandas as pd
 # ---------- DATA LOADING ----------
 def load_data():
     try:
-        df = pd.read_csv("sales_data.csv")   # CSV referenced
+        df = pd.read_csv("sales_data.csv")   # pandas usage
         return df.values.tolist()            # Convert to Python list
     except FileNotFoundError:
         print("sales_data.csv not found. Keep it in the same folder.")
@@ -71,3 +71,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
